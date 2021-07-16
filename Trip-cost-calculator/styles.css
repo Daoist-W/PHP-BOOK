@@ -1,0 +1,38 @@
+main {
+    border: 1px solid;
+    width: 400px;
+    margin: auto;
+    text-align: center;
+   }
+   
+   h1 {
+    border-bottom: 1px dashed;
+   }
+   
+   td {
+    padding-right: 10px;
+    padding-left: 3px;
+   }
+   
+   td p {
+    text-align: right;
+   }
+   
+   .submit {
+    margin: auto;
+    margin-bottom: 10px;
+    width: 90%;
+    height: 30px;
+   }
+   
+   .result {
+    position: absolute;
+    top: 300px;
+    border: 1px solid;
+    background: linear-gradient(white, antiquewhite);
+    width: 400px;
+    text-align: justify;
+    padding: 10px;
+    box-sizing: border-box;
+    margin: auto;
+   }
